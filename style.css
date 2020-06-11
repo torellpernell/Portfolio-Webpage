@@ -17,8 +17,8 @@ header {
 
 /* provides proper sizing for the main element*/
 main {
-  margin-left: 250px;
-  margin-right: 250px;
+  margin-left: 35%;
+  margin-right: 35%;
 }
 
 /* provides more spacing for h2 elements*/
