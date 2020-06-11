@@ -51,8 +51,8 @@ li {
 
 /* provides formatting for pseudo-class selectors*/
 a:link {color: blue;}
-a:visited {color: green;}
-a:hover {color: brown;}
+a:visited {color: brown;}
+a:hover {color: green;}
 a:active {color: red;}
 
 
