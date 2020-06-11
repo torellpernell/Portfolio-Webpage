@@ -1,0 +1,72 @@
+/* provides a background color for entire webpage*/
+html {
+  background: lightgrey;
+}
+
+/* center align my header elements*/
+header {
+  text-align: center;
+}
+
+/* formats the border of my photo image*/
+.photo-border {
+  border-color: maroon;
+  border-style: solid;
+  border-radius: 50%;
+}
+
+/* provides proper sizing for the main element*/
+main {
+  margin-left: 250px;
+  margin-right: 250px;
+}
+
+/* provides more spacing for h2 elements*/
+h2 {
+  margin: 1px;
+}
+
+/* provides formatting for the horizontal rulers*/
+hr {
+  background-color: maroon;
+  text-align: left;
+  height: 2px;
+  right: 50px;
+}
+
+/* provides proper spacing around the nav element*/
+.nav-margin{
+  margin-top: 75px;
+}
+
+/* provides spacing for the list elements*/
+li {
+  padding: 3px;
+}
+
+/* provides spacing for the link icons*/
+.icon-margin{
+  margin-right: 5px;
+}
+
+/* provides formatting for pseudo-class selectors*/
+a:link {color: blue;}
+a:visited {color: green}
+a:hover {color: brown}
+a:active {color: red}
+
+
+/* provides formatting for the footer*/
+footer {
+  text-align: center;
+  background-color: maroon;
+  color: whitesmoke;
+}
+
+/* provides formatting for my name within the footer*/
+.footer-myname {
+  font-family: Tahoma, Geneva, sans-serif;
+  margin-bottom: -10px;
+}
+
+
