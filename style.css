@@ -3,7 +3,7 @@ html {
   background: lightgrey;
 }
 
-/* center align my header elements*/
+/* center align my header elements.*/
 header {
   text-align: center;
 }
@@ -44,6 +44,11 @@ li {
   padding: 3px;
 }
 
+/* removes bullets from list element*/
+ol {
+  list-style: none;
+}
+
 /* provides spacing for the link icons*/
 .icon-margin{
   margin-right: 5px;
@@ -68,5 +73,3 @@ footer {
   font-family: Tahoma, Geneva, sans-serif;
   margin-bottom: -10px;
 }
-
-
